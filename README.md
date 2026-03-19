@@ -16,15 +16,16 @@ Most tutorials relied on built-in QGIS functionality. No additional plugins were
 
 ## Completed tutorials
 
-- [Working with Projections (QGIS3)](projects/working_with_projections_weidemann.qgz)  
-- [Basic Vector Styling (QGIS3)](projects/basic_vector_styling_weidemann.qgz)  
-- [Basic Raster Styling and Analysis (QGIS3)](projects/basic_raster_styling_analysis_weidemann.qgz)  
-- [Importing Spreadsheets or CSV Files (QGIS3)](projects/importing_csv_data_weidemann.qgz)  
-- [Working with Attributes (QGIS3)](projects/working_with_attributes_weidemann.qgz)  
-- [Performing Table Joins (QGIS3)](projects/performing_table_joins_weidemann.qgz)  
-- [Performing Spatial Joins (QGIS3)](projects/performing_spatial_joins_weidemann.qgz)  
-- [Performing Spatial Queries (QGIS3)](projects/performing_spatial_queries_weidemann.qgz)  
-- [Making a Map (QGIS3)](projects/making_a_map_weidemann.qgz)
+- [Making a Map](projects/making_a_map_weidemann.qgz)
+- [Working with Projections](projects/working_with_projections_weidemann.qgz)
+- [Working with Attributes](projects/working_with_attributes_weidemann.qgz)
+- [Importing Spreadsheets or CSV Files](projects/importing_spreadsheets_csv_weidemann.qgz)
+- [Basic Vector Styling](projects/basic_vector_styling_weidemann.qgz)
+- [Basic Raster Styling and Analysis](projects/basic_raster_styling_analysis_weidemann.qgz)
+- [Performing Table Joins](projects/performing_table_joins_weidemann.qgz)
+- [Performing Spatial Joins](projects/performing_spatial_joins_weidemann.qgz)
+- [Performing Spatial Queries](projects/performing_spatial_queries_weidemann.qgz)
+- [Creating a Colorized River Basin Map](projects/creating_a_colorized_river_basin_map_weidemann.gqz)
 
 Screenshots of map outputs and layouts can be found in the **outputs/** directory.
 
