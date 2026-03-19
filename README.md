@@ -25,7 +25,7 @@ Most tutorials relied on built-in QGIS functionality. No additional plugins were
 - [Performing Table Joins](projects/performing_table_joins_weidemann.qgz)
 - [Performing Spatial Joins](projects/performing_spatial_joins_weidemann.qgz)
 - [Performing Spatial Queries](projects/performing_spatial_queries_weidemann.qgz)
-- [Creating a Colorized River Basin Map](projects/creating_a_colorized_river_basin_map_weidemann.gqz)
+- [Interpolating Point Data](projects/interpolating_point_data_weidemann.gqz)
 
 Screenshots of map outputs and layouts can be found in the **outputs/** directory.
 
@@ -33,18 +33,19 @@ Screenshots of map outputs and layouts can be found in the **outputs/** director
 
 ## Skills demonstrated
 
-- Working with coordinate reference systems (CRS) and map projections  
-- Importing and managing spatial data from multiple formats  
-- Styling vector and raster datasets for visualization  
-- Editing and exploring attribute tables  
-- Performing attribute queries and spatial queries  
-- Conducting table joins and spatial joins  
-- Basic raster analysis and classification  
-- Creating map layouts using the QGIS Print Layout tool  
-- Exporting maps and figures for presentation or reporting  
+- Working with coordinate reference systems (CRS) and map projections
+- Importing and managing spatial data from multiple formats
+- Styling vector and raster datasets for visualization
+- Editing and exploring attribute tables
+- Performing attribute queries and spatial queries
+- Conducting table joins and spatial joins
+- Basic raster analysis and classification
+- Creating map layouts using the QGIS Print Layout tool
+- Exporting maps and figures for presentation or reporting
+- Creating contours from point data and performing interpolation analysis
 
 ---
 
 ## Reflection
 
-Working through these tutorials helped clarify how different types of spatial data are handled within QGIS (compared to Esri's ArcGIS tool suite) and how common GIS operations fit together in a typical workflow. Concepts such as coordinate reference systems, joins, and spatial queries were reinforced through hands-on practice rather than coneceptual learning. One challenging aspect was understanding how attribute joins and spatial joins differ and when each should be used. Producing a final map layout also required careful attention to styling, labeling, and visual hierarchy. I found some of the styling settings were more buried in the interface than I expected. These exercises demonstrated how open source GIS tools can support many of the same workflows used in professional GIS environments.
+Working through these tutorials helped clarify how different types of spatial data are handled within QGIS (compared to Esri's ArcGIS tool suite) and how common GIS operations fit together in a typical workflow. Concepts such as coordinate reference systems, joins, and spatial queries were reinforced through hands-on practice rather than coneceptual learning. One challenging aspect was understanding how attribute joins and spatial joins differ and when each should be used. Producing visually appealing products required careful attention to styling, labeling, and visual hierarchy. Some of the styling settings were a bit buried and took time to dig through the interface to find. These exercises demonstrated how open source GIS tools can support many of the same workflows used in professional GIS environments.
