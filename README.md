@@ -4,6 +4,7 @@
 
 This repository contains project files and outputs from a series of [QGIS tutorials](https://www.qgistutorials.com/en/index.html) completed as part of the Open Source GIS coursework. The tutorials demonstrate GIS workflows using QGIS, including working with spatial data, styling layers, performing joins and queries, and producing finished map layouts. Each tutorial teaches practical QGIS methods for manipulating, analyzing, and visualizing geographic data. The repository serves as a portfolio showing familiarity with common geospatial analysis tasks in an open source GIS environment.
 
+
 ## Software environment
 
 **QGIS Version Used:** 3.44.8  
@@ -12,7 +13,6 @@ This repository contains project files and outputs from a series of [QGIS tutori
 **Plugins used:**  
 Most tutorials relied on built-in QGIS functionality. No additional plugins were required for the complted tutorials.
 
----
 
 ## Completed tutorials
 
@@ -29,7 +29,6 @@ Most tutorials relied on built-in QGIS functionality. No additional plugins were
 
 Screenshots of map outputs and layouts can be found in the **outputs/** directory.
 
----
 
 ## Skills demonstrated
 
@@ -44,7 +43,6 @@ Screenshots of map outputs and layouts can be found in the **outputs/** director
 - Exporting maps and figures for presentation or reporting
 - Creating contours from point data and performing interpolation analysis
 
----
 
 ## Reflection
 
