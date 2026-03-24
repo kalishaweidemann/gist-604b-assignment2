@@ -25,7 +25,7 @@ Most tutorials relied on built-in QGIS functionality. No additional plugins were
 - [Performing Table Joins](projects/performing_table_joins_weidemann.qgz)
 - [Performing Spatial Joins](projects/performing_spatial_joins_weidemann.qgz)
 - [Performing Spatial Queries](projects/performing_spatial_queries_weidemann.qgz)
-- [Interpolating Point Data](projects/interpolating_point_data_weidemann.gqz)
+- [Interpolating Point Data](projects/interpolating_point_data_weidemann.qgz)
 
 Screenshots of map outputs and layouts can be found in the **outputs/** directory.
 
