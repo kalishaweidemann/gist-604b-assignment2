@@ -44,6 +44,11 @@ Screenshots of map outputs and layouts can be found in the **outputs/** director
 - Creating contours from point data and performing interpolation analysis
 
 
+## Example output
+
+![Example Map](outputs/interpolating_point_data_weidemann.png)
+
+
 ## Reflection
 
 Working through these tutorials helped clarify how different types of spatial data are handled within QGIS (compared to Esri's ArcGIS tool suite) and how common GIS operations fit together in a typical workflow. Concepts such as coordinate reference systems, joins, and spatial queries were reinforced through hands-on practice rather than coneceptual learning. One challenging aspect was understanding how attribute joins and spatial joins differ and when each should be used. Producing visually appealing products required careful attention to styling, labeling, and visual hierarchy. Some of the styling settings were a bit buried and took time to dig through the interface to find. These exercises demonstrated how open source GIS tools can support many of the same workflows used in professional GIS environments.
