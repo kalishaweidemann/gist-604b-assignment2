@@ -27,7 +27,7 @@ Most tutorials relied on built-in QGIS functionality. No additional plugins were
 - [Performing Spatial Queries](projects/performing_spatial_queries_weidemann.qgz)
 - [Interpolating Point Data](projects/interpolating_point_data_weidemann.qgz)
 
-Screenshots of map outputs and layouts can be found in the **outputs/** directory.
+Screenshots of map outputs and layouts can be found in the [outputs](ouputs) directory.
 
 
 ## Skills demonstrated
