@@ -10,8 +10,7 @@ This repository contains project files and outputs from a series of [QGIS tutori
 **QGIS Version Used:** 3.44.8  
 **Operating system:** Windows 11 Pro 64-bit operating system 
 
-**Plugins used:**  
-Most tutorials relied on built-in QGIS functionality. No additional plugins were required for the complted tutorials.
+**Plugins used:** Most tutorials relied on built-in QGIS functionality. No additional plugins were required for the complted tutorials.
 
 
 ## Completed tutorials
